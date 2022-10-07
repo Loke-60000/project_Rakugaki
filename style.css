@@ -12,19 +12,19 @@ a {
 
 .pixiv {
     position: absolute;
-    left: 1000px;
-    top: 10px;
+    left: 950px;
+    top: 170px;
 }
 
 .miiverse {
     position: absolute;
-    left: 1000px;
-    top: 500px;
+    left: 950px;
+    top: 650px;
 }
 
 .illu {
     position: absolute;
-    top: 180px;
+    top: 450px;
     left: 500px;
 }
 
